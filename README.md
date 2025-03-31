@@ -80,4 +80,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Instalación
 1. Clona el repositorio
-2. Abre `index.html` en tu navegador
+2. Instalar composer y npm
+3. Ejecuta los comandos "npm run dev" y "php artisan serve"
+4. Abre la ruta `/` en tu navegador
