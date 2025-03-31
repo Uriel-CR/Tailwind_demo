@@ -77,6 +77,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Tecnologías
 - Tailwind CSS
 - HTML5
+- Laravel v12
 
 ## Instalación
 1. Clona el repositorio
